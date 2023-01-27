@@ -1,0 +1,3 @@
+if getgenv().key == "7lcg-e396-g6rw-jf5i" then
+    print("Negro!")
+end
